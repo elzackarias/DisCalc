@@ -1,0 +1,18 @@
+.logofont {
+    font-family: 'Logo' , sans-serif;
+    color: #27187E;
+    font-size: 35px;
+    font-weight: 810;
+    letter-spacing: -0.09em;
+    margin-top: 12px;
+    /*padding-left: 1rem;*/
+  }
+  .logofontdark{
+    font-family: 'Logo' , sans-serif;
+    color: #fff !important;
+    font-size: 35px;
+    margin-top: 12px;
+  }
+  .textwhite{
+    color:#fff;
+  }
